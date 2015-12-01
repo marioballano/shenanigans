@@ -30,7 +30,13 @@ opcode.
 
 [ notes ] 
 
-In the game Indy enters the catacombs through room 50
+In the game Indy enters the catacombs through room 50, I have also 
+taken screenshots of each one of the rooms (see screens.sh) and uploaded 
+them to this repo.
+
+Room 86 is a false positive, it contains an element named "tunnel"
+and it mistakenly gets added to the map, that's why it shows up as
+an orphan node in the graph.
 
 [references]
 
