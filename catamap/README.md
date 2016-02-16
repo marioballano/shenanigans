@@ -1,5 +1,3 @@
-![map](./pics/catamap.png "catamap")
-
 # Intro 
 
 Right after watching @reversemode's talk "21 days" I felt a bit nostalgic,
@@ -51,3 +49,7 @@ an orphan node in the graph.
 
 * [@reversemode](https://twitter.com/reversemode) : for bringing these memories back! :)
 * [@ScummVM](https://twitter.com/scummvm) : you guys rock
+
+# The map!
+
+![map](./pics/catamap.png "catamap")
