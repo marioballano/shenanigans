@@ -1,4 +1,4 @@
-![map](/pics/catamap.png "catamap")
+![map](./pics/catamap.png "catamap")
 
 # Intro 
 
@@ -49,5 +49,5 @@ an orphan node in the graph.
 
 # Greets
 
-* @reversemode : for bringing these memories back! :)
-* @ScummVM     : you guys rock
+* [@reversemode](https://twitter.com/reversemode) : for bringing these memories back! :)
+* [@ScummVM](https://twitter.com/scummvm) : you guys rock
