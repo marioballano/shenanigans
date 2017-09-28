@@ -1,13 +1,13 @@
 # Intro 
 
 Right after watching @reversemode's talk "21 days" I felt a bit nostalgic,
-in the talk he mentions one of first video games we used to play back 
+in the talk he mentions one of the first video games we used to play back 
 when we were kids, oh boy.. we spent a ridiculous amount of time drawing maps 
 of a catacomb maze and it was great fun!.. that feeling you get when you 
 manage to unravel those sort of riddles is probably not far off from what 
 you experience reversing/breaking software :)
 
-I thought it could be good fun to have look at the same riddle from a 
+I thought it could be good fun to have a look at the same riddle from a 
 software reversing perspective, these days is obviously way easier
 than it coulda been back then since the awesome guys from ScummVM 
 have reimplemented the scumm game engine and made it available for 
